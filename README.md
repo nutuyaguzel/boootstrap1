@@ -6,4 +6,4 @@ Kütüphane Zmana Acılan Kapıdır bunu Mavi Pusula ile Yapın.Kütüphaneniz M
 
 <h2>Ekran Görüntüsü</h2>
 
-![](Screenbt.gif)
+![](Screen bt.gif)
